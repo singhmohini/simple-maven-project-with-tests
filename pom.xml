@@ -13,7 +13,7 @@
     </licenses>
 <profiles>    
  <profile>    
-   <id>metrics</id>    
+   <id>jenkins</id>    
    <build>   
      <plugins>        
        <plugin>      
